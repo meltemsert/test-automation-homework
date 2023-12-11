@@ -1,1 +1,1 @@
-this homework is done for learning git usage
+this project is completed
