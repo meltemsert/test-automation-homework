@@ -1,1 +1,0 @@
-This assignment was done to learn how to use git.
