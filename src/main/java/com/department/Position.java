@@ -6,13 +6,8 @@ public enum Position {
     SYSTEM_ANALYST,
     PROJECT_MANAGER,
     TEST_ENGINEER,
-
     GEOMATICS_ENGINEER,
-
     JOB_SECURITY_SPECIALIST
-
-
-
 
 
 }

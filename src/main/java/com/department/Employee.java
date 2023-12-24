@@ -3,14 +3,10 @@ package com.department;
 public class Employee {
     private String name;
     private String surname;
-
     private String age;
-
     private Position position;
 
-
-
-    public Employee(String name, String surname, String age,Position position) {
+    public Employee(String name, String surname, String age, Position position) {
         this.name = name;
         this.surname = surname;
         this.age = age;
